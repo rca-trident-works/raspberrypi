@@ -1,3 +1,4 @@
+# coding: utf-8
 # 2球のLEDを2秒間隔で交互に点滅
 
 import RPi.GPIO as GPIO

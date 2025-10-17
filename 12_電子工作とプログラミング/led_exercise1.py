@@ -1,3 +1,4 @@
+# coding: utf-8
 # 1球のLEDを0.5秒間隔で点滅(GPIO 24)
 
 import RPi.GPIO as GPIO
